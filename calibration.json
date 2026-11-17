@@ -1,15 +1,15 @@
 {
-  "meters_per_pixel": 0.008632541915526665,
-  "real_distance_m": 1.78,
-  "pixel_distance": 206.196508214858,
+  "meters_per_pixel": 0.027837640457870346,
+  "real_distance_m": 1.8,
+  "pixel_distance": 64.66065264130884,
   "points": [
     [
-      825,
-      266
+      785,
+      231
     ],
     [
-      1031,
-      257
+      840,
+      197
     ]
   ],
   "frame_used": 80
